@@ -23,6 +23,8 @@ Techs that I've used at least once
 [![](https://raw.githubusercontent.com/dbs7120/dbs7120/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dbs7120/dbs7120/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dbm01049)](https://solved.ac/dbm01049)
+
 
 ## 📂 Project
 
