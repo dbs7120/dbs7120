@@ -1,6 +1,6 @@
 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yun Ye Jun!&fontAlign=75&fontAlignY=40&animation=fadeIn6&color=gradient&desc=GitHub%20profile.👋&descAlign=80)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=YunYeJun!&fontAlign=75&fontAlignY=40&animation=fadeIn6&color=gradient&desc=GitHub%20profile.👋&descAlign=80)
 
 ### 👨 About Me
 
